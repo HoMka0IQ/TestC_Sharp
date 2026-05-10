@@ -1,0 +1,86 @@
+[2024-05-06 14:30:05] [ERROR] Database timeout
+
+[2024-05-06] [ERROR] Broken date
+[2024-05-06 25:61:61] [ERROR] Invalid time
+[WRONG FORMAT]
+[] []
+
+[2024-05-06 00:00:00] [INFO] Server Loading...
+
+[2024-05-06 00:01:10] [INFO] Server started
+[2024-05-06 00:15:22] [ERROR] Null reference
+[2024-05-06 00:45:00] [CRITICAL] Memory overflow
+
+[2024-05-06 01:05:33] [WARNING] CPU high
+[2024-05-06 01:15:10] [ERROR] DB timeout
+[2024-05-06 01:45:59] [ERROR] DB timeout again
+
+[2024-05-06 02:10:10] [INFO] Ping ok
+[2024-05-06 02:22:22] [CRITICAL] Disk failure
+
+[2024-05-06 03:30:30] [ERROR] Network lost
+[2024-05-06 03:45:00] [ERROR] Network lost again
+
+[2024-05-06 10:05:05] [INFO] Player connected
+[2024-05-06 10:15:15] [ERROR] Auth failed
+[2024-05-06 10:25:25] [CRITICAL] Auth system down
+
+[2024-05-06 14:00:01] [ERROR] Database timeout
+[2024-05-06 14:10:15] [ERROR] Database timeout
+[2024-05-06 14:30:45] [CRITICAL] Server crash
+[2024-05-06 14:59:59] [ERROR] Another error
+
+[2024-05-06 15:05:05] [INFO] Recovery started
+[2024-05-06 15:10:10] [ERROR] Recovery failed
+[2024-05-06 15:20:20] [CRITICAL] Recovery critical fail
+
+[2024-05-06 16:00:00] [INFO] System stable
+[2024-05-06 16:30:30] [ERROR] Minor issue
+
+[2024-05-06 18:45:45] [CRITICAL] Unexpected shutdown
+[2024-05-06 18:50:50] [ERROR] Restart failed
+
+Some random garbage text
+[2024-05-06] [ERROR] Broken date
+[2024-05-06 25:61:61] [ERROR] Invalid time
+[WRONG FORMAT]
+[] []
+
+[2024-05-07 14:30:05] [ERROR] Database timeout
+
+[2024-05-07 00:00:00] [INFO] Server Loading...
+
+[2024-05-07 00:01:10] [INFO] Server started
+[2024-05-07 00:15:22] [ERROR] Null reference
+
+[2024-05-07 00:15:22] [ERROR] Null reference
+[2024-05-07 00:45:00] [CRITICAL] Memory overflow
+
+[2024-05-07 01:05:33] [WARNING] CPU high
+[2024-05-07 01:15:10] [ERROR] DB timeout
+[2024-05-07 01:45:59] [ERROR] DB timeout again
+
+[2024-05-07 02:10:10] [INFO] Ping ok
+[2024-05-07 02:22:22] [CRITICAL] Disk failure
+
+[2024-05-07 03:30:30] [ERROR] Network lost
+[2024-05-07 03:45:00] [ERROR] Network lost again
+
+[2024-05-07 10:05:05] [INFO] Player connected
+[2024-05-07 10:15:15] [ERROR] Auth failed
+[2024-05-07 10:25:25] [CRITICAL] Auth system down
+
+[2024-05-07 14:00:01] [ERROR] Database timeout
+[2024-05-07 14:10:15] [ERROR] Database timeout
+[2024-05-07 14:30:45] [CRITICAL] Server crash
+[2024-05-07 14:59:59] [ERROR] Another error
+
+[2024-05-07 15:05:05] [INFO] Recovery started
+[2024-05-07 15:10:10] [ERROR] Recovery failed
+[2024-05-07 15:20:20] [CRITICAL] Recovery critical fail
+
+[2024-05-07 16:00:00] [INFO] System stable
+[2024-05-07 16:30:30] [ERROR] Minor issue
+
+[2024-05-07 18:45:45] [CRITICAL] Unexpected shutdown
+[2024-05-07 18:50:50] [ERROR] Restart failed
