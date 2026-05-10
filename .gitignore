@@ -1,0 +1,54 @@
+## Специфічні файли для .NET (Visual Studio  Rider  VS Code)
+# Результати компіляції (виконувані файли та бібліотеки)
+bin
+obj
+
+# Файли користувача (налаштування вікон, фільтрів тощо)
+.user
+.userosscache
+.sln.docuser
+
+# Тимчасові файли Roslyn та кеш
+.rs
+Generated Files
+
+# Налаштування Visual Studio
+.vs
+[Tt]emp
+[Log]
+# Виключаємо базу даних IntelliSense
+.opensdf
+.sdf
+.suo
+.pdb
+
+# Налаштування VS Code
+.vscode
+!.vscodesettings.json
+!.vscodetasks.json
+!.vscodelaunch.json
+!.vscodeextensions.json
+
+# Налаштування JetBrains (Rider)
+.idea
+.sln.iml
+
+# Файли тестів та звітів
+TestResults
+.sequencediagram.layout
+
+# Пакети NuGet
+.nupkg
+# Зазвичай папка packages не додається, бо NuGet відновлює їх автоматично
+packages
+!packagesbuild
+
+# Операційна система
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Файли логів вашої програми (якщо ви їх створюєте в коді)
+.log
+Logs
